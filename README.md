@@ -45,9 +45,12 @@ My journey in Networking and Network Security led me to develop a passion for cy
 
 ### Defense
 
-### SIEM
+### Defense
 <div>
-<img src="https://img.shields.io/badge/-Splunk-800080?style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-00B6C4?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IRIS-2E86C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SOAR-6C3483?style=for-the-badge" />
 </div>
 
 ## Certifications
