@@ -29,6 +29,12 @@ My journey in Networking and Network Security led me to develop a passion for cy
 | Case Management with TheHive                    | SOC Automation Lab          |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab          |
 
+## Writeups
+
+- [Billing challenge](https://github.com/GeraldM-007/Writeups/blob/22e49cf7f730db985e1de843e6bfe51fc68abe5f/THM-BillingChallenge.md)
+- [Writeup Title 2](https://your-link-2.com)
+- [Writeup Title 3](https://your-link-3.com)
+
 ## Tools
 
 ### Network
