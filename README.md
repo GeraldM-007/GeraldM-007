@@ -65,12 +65,6 @@ My journey in Networking and Network Security led me to develop a passion for cy
 <img src="https://img.shields.io/badge/-Cisco%20Network%20Security-1D88CC?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeraldM-007&show_icons=true&theme=react&hide_rank=true&hide=prs,issues" alt="GeraldM-007's GitHub Stats" style="border-radius:15px;" />
-</div>
-
 ## Banter
 
 <div align="center">
