@@ -65,7 +65,26 @@ My journey in Networking and Network Security led me to develop a passion for cy
 <img src="https://img.shields.io/badge/-Cisco%20Network%20Security-1D88CC?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Projects
+## Stats
 
-- Detection Lab
-- SOC Automation Project
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeraldM-007&show_icons=true&theme=react&hide_rank=true&hide=prs,issues" alt="GeraldM-007's GitHub Stats" style="border-radius:15px;" />
+</div>
+
+## Banter
+
+<div align="center">
+  <table width="400" align="center" style="background:#222e3c; color:#c9d1d9; border-radius:10px; border:none; box-shadow:0 2px 8px #222e3c88; font-size:15px;">
+    <tr>
+      <th style="padding:10px 0 0 10px; color:#c9d1d9; font-weight:600; font-size:16px;" align="left">
+        <span style="color:#58a6ff; font-size:17px;">Random Joke</span>
+      </th>
+    </tr>
+    <tr>
+      <td style="padding:10px 10px 10px 20px;">
+        <span style="color:#ffe066; font-weight:700;">Q. Why do hackers love nature?</span><br>
+        <span style="color:#9afc4c; font-weight:700;">A. Because it has so many root privileges!</span>
+      </td>
+    </tr>
+  </table>
+</div>
