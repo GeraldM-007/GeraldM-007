@@ -1,6 +1,6 @@
 ### Hi there 🙋‍♂️
 
-I'm Gerald Muchuku, a Network Engineer and Cybersecurity Professional.
+I'm Gerald Muchuku, a Cybersecurity Professional.
 
 <a href="https://www.linkedin.com/in/gerald-muchuku-500706243"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe-00A9E0?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
